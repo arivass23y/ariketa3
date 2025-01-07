@@ -14,7 +14,6 @@ import { OsagaiakModule } from "../shared/osagaiak/osagaiak.module";
     FormsModule,
     OsagaiakModule,
     Tab1PageRoutingModule,
-    OsagaiakModule
 ],
   declarations: [Tab1Page]
 })
