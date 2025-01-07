@@ -1,0 +1,7 @@
+{
+  "name": "ariketa3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
